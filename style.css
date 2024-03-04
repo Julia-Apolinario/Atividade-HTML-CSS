@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.div-a {
+    background-color: #F0E68C; /* Khaki */
+    width: 500px;
+    height: 500px;
+}
+
+.div-b {
+    background-color: #87CEEB; /* Sky Blue */
+    width: 50%;
+    height: 50%;
+}
+
+.div-c p {
+    color: #FFF;
+    background-color: #2E8B57; /* Sea Green */
+    font-size: 24px;
+    font-family: 'Verdana', sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    margin: 0;
+}
+
+.div-d {
+    background-color: #FFA07A; /* Light Salmon */
+    width: 50%;
+    height: 50vh;
+}
+
+.div-e {
+    background-color: #FF69B4; /* Hot Pink */
+    width: 75%;
+    height: 50%;
+}
